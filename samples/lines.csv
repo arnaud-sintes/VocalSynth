@@ -1,0 +1,5 @@
+name,text,voice,rate,pitch,volume,reverb,trim
+shields_low,You're running out of propellant.,Zira,,,,10,
+enemy_incoming,Shield on!,Zira,,,,10,
+hull_breach,No more homing missiles…,Zira,,,,10,
+jump_ready,Hyperdrive charged. Ready to jump.,Zira,,,,10,
